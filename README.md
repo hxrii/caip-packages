@@ -1,11 +1,21 @@
 # CAIP Packages
 
-This mono-repo contains packages for validating CAIP URNs in different blockchain development environments.
+This mono-repo contains packages for validating CAIP (Chain Agnostic Improvement Proposals) URNs in different blockchain development environments.
 
 ## Packages
 
 - [caip-eip155](./caip-eip155) - Package for validating EIP-155 CAIP URNs.
 - [caip-hedera](./caip-hedera) - Package for validating Hedera Hashgraph CAIP URNs.
+- [caip-arweave](./caip-arweave) - Package for validating Arweave CAIP URNs.
+- [caip-bip122](./caip-bip122) - Package for validating BIP-122 CAIP URNs.
+- [caip-solana](./caip-solana) - Package for validating Solana CAIP URNs.
+- [caip-stacks](./caip-stacks) - Package for validating Stacks CAIP URNs.
+- [caip-starknet](./caip-starknet) - Package for validating StarkNet CAIP URNs.
+- [caip-stellar](./caip-stellar) - Package for validating Stellar CAIP URNs.
+- [caip-tezos](./caip-tezos) - Package for validating Tezos CAIP URNs.
+- [caip-tvm](./caip-tvm) - Package for validating TVM CAIP URNs.
+- [caip-waves](./caip-waves) - Package for validating Waves CAIP URNs.
+- [caip-xrpl](./caip-xrpl) - Package for validating XRPL CAIP URNs.
 
 ## Adding more namespaces
 

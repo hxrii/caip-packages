@@ -1,0 +1,18 @@
+{
+  "name": "caip-packages",
+  "version": "1.0.0",
+  "description": "This mono-repo contains packages for validating CAIP URNs in different blockchain development environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "caip",
+  "chain agnostic",
+  "URN",
+  "utility"],
+  "author": "hxrii",
+  "license": "MIT",
+  "dependencies": {
+    "caip": "^1.1.0"
+  }
+}
